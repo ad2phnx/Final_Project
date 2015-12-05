@@ -1,0 +1,16 @@
+Category            -Words
+Around the House    #High Definition Plasma TV
+Around the House    #Modern Wall Clock
+Book Title          #Clifford The Big Red Dog
+Book Title          #Out of Africa
+Book Title          #The Chronicles Of Narnia
+Book Title          #The Great Gatsby
+Book Title          #To Kill A Mockingbird
+Classic Movie       #The Graduate
+Classic Movie       #Caddyshack
+Fictional Character #Aphrodite Goddess Of Love And Beauty
+Fictional Character #Bugs Bunny
+Fictional Character #Buzz Lightyear
+Movie Title         #Grumpy Old Men
+Movie Title         #The Matrix
+Movie Title         #National Lampoon's Vacation
