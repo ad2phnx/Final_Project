@@ -19,12 +19,16 @@ class word
         void set_name(string);
         string get_name();
 
+        //get and set size
+        void set_size(int);
+        int get_size();
+
         // phrase in characters
         char phrase[99];
 
     private:
-        string name;                // name of words category
-        int size;                   // size of phrase in chars
+        string Name;                // name of words category
+        int Size;                   // size of phrase in chars
 
 };//end word
 

@@ -11,12 +11,22 @@ word::word()
 
 }
 
-void word::set_name(string name)
+void word::set_name(string Name)
 {
-    this->name = name;
+    this->Name = Name;
 }
 
 string word::get_name()
 {
-    return this->name;
+    return Name;
+}
+
+void word::set_size(int Size)
+{
+    this->Size = Size;
+}
+
+int word::get_size()
+{
+    return Size;
 }

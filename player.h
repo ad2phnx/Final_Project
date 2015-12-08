@@ -20,18 +20,23 @@ class player
        //set & get name
        void set_name(string);
        string get_name();
+       string get_name(bool);
 
        //set & get pos
        void set_pos(int);
        int get_pos();
 
-       //set & get score
+       //set & get round score
        void set_score(int);
        int get_score();
 
+       //set & get total score
+       void set_tot_score(int);
+       int get_tot_score();
+
        //set & get turn
-       void set_turn(bool);
-       bool get_turn();
+       void set_turn_miss(bool);
+       bool get_turn_miss();
 
    private:
 
@@ -39,6 +44,7 @@ class player
        string Name;
        int Pos;
        int Score;
+       int Tot_Score;
        char Guess [99];
        bool Miss_Turn;
 
