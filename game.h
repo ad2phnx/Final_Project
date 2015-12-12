@@ -16,7 +16,6 @@ using namespace std;
 class game
 {
     public:
-
         // Member Functions
         // Constructors
         game();
@@ -24,13 +23,13 @@ class game
         //words in game
         word words[99];
 
-        //used words
+        //used words word pointer array
         word *used_words[99];
 
         //players in game
         player players[3];
 
-        //set next random word
+        //set & get next random word
         void set_current_word(int);
         int get_current_word();
 
@@ -56,15 +55,13 @@ class game
 
         //get alphabet char
         char get_alphabet(int);
+
+        //get if char is valid
         bool get_alphabet(char, bool);
 
         //set & get guessed chars
         void set_guessed_alpha(int, bool);
         bool get_guessed_alpha(int);
-
-        //set & get guessed word chars
-        void set_guessed_pos(int, bool);
-        bool get_guessed_pos(int);
 
         //get box values
         string get_box_value(int);
@@ -93,21 +90,20 @@ class game
     private:
 
         //game info
-        int Num_Players;
-        int Player_Turn;
-        int Max_Rounds;
-        int Current_Round;
-        int Num_Words;
-        int Current_Word;
-        int Spin_Value;
-        int Num_Box_Values;
-        int Vowel_Cost;
-        int Num_Used_Words;
-        char Alpha[26];
-        string Box_Values[7];
-        int Box_Num_Values[7];
-        bool Guessed_Pos[99];
-        bool Guessed_Alpha[26];
+        int Num_Players;                            // num of players playing
+        int Player_Turn;                            // whose turn it is
+        int Max_Rounds;                             // num of rounds in game
+        int Current_Round;                          // current round number
+        int Num_Words;                              // number of words in file
+        int Current_Word;                           // current word (phrase)
+        int Spin_Value;                             // spin represents
+        int Num_Box_Values;                         // number of different spins
+        int Vowel_Cost;                             // cost to buy vowel
+        int Num_Used_Words;                         // count # used words
+        char Alpha[26];                             // alphabet in char array
+        string Box_Values[7];                       // values in spinner
+        int Box_Num_Values[7];                      // int values in spinner
+        bool Guessed_Alpha[26];                     // if alpha char guessed
 
 };//end game
 

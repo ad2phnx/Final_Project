@@ -1,16 +1,86 @@
-Category            -Words
+Category            -Phrases
+Around the House    #Address Book
+Around the House    #Bookshelf
+Around the House    #Beanbag Chair
+Around the House    #Bookends
+Around the House    #Ceramic-Bowl
 Around the House    #High Definition Plasma TV
 Around the House    #Modern Wall Clock
+Before & After      #Captain Hook Line and Sinker
+Before & After      #Knockout Punch Bowl
+Before & After      #Pick Up Speed Limit
+Before & After      #Water Main Attraction
+Book Title          #The Scarlet Letter
 Book Title          #Clifford The Big Red Dog
 Book Title          #Out of Africa
 Book Title          #The Chronicles Of Narnia
 Book Title          #The Great Gatsby
 Book Title          #To Kill A Mockingbird
-Classic Movie       #The Graduate
-Classic Movie       #Caddyshack
+Classic Movies      #The Graduate
+Classic Movies      #Casablanca
+Classic Movies      #Caddyshack
+Classic Movies      #The Dirty Dozen
+Classic TV          #Miami Vice
+Classic TV          #Bonanza
+Classic TV          #Alice Flo Vern & Mel
+Event               #Act Of Congress
+Event               #Big Bash
+Event               #Cinco De Mayo
+Event               #Family Reunion
+Event               #Independence Day
+Event               #Memorial Day
+Event               #Sunny Afternoon
+Fictional Character #Ebenezer Scrooge
+Fictional Character #Hercules
+Fictional Character #Old King Cole
+Fictional Character #Top Cat
+Fictional Character #The Green Lantern
 Fictional Character #Aphrodite Goddess Of Love And Beauty
 Fictional Character #Bugs Bunny
 Fictional Character #Buzz Lightyear
+Food & Drink        #American Cheddar Cheese
+Food & Drink        #Bottled Water
+Food & Drink        #Chocolate Syrup
+Food & Drink        #Cheese Pizza
+Food & Drink        #Empanadas
+Food & Drink        #French Fries
+Food & Drink        #Homemade Pizza
+Food & Drink        #Smoked Ham
+Fun & Games         #Arm Wrestling
+Fun & Games         #Balloon Animals
+Fun & Games         #Rock Climbing
+Fun & Games         #Video Poker
+In The Kitchen      #Glass Bowl
+In The Kitchen      #Canned Goods
+Landmark            #Arlington House
+Landmark            #Capitol Hill
+Landmark            #Hoover Dam
+Landmark            #Muscle Beach
+Landmark            #Prague Castle
+Landmark            #Tidal Basin
+Movie Title         #All About Eve
+Movie Title         #The Departed
+Movie Title         #Back to the Future
+Movie Title         #Planet of the Apes
+Movie Title         #A Beautiful Mind
 Movie Title         #Grumpy Old Men
 Movie Title         #The Matrix
 Movie Title         #National Lampoon's Vacation
+Occupation          #Brain Surgeon
+Occupation          #Chemist
+Occupation          #Court Reporter
+Occupation          #Judge
+Occupation          #Lawyer
+Occupation          #Music Teacher
+Occupation          #Personal Trainer
+Occupation          #Webmaster
+On The Map          #Arabian Sea
+On The Map          #Albany New York
+On The Map          #Boulder City Nevada
+On The Map          #British Columbia
+On The Map          #Harlem River
+On The Map          #Los Angeles
+On The Map          #Louisville Kentucky
+On The Map          #Maryland
+On The Map          #New York City
+On The Map          #Venice Italy

@@ -11,15 +11,14 @@ using namespace std;
 class player
 {
    public:
-       
        // Member Functions
        // Constructors
        player();
-       player(string, int, int, bool);
+       //player(string, int, int, bool);
 
        //set & get name
        void set_name(string);
-       string get_name();
+       //string get_name();
        string get_name(bool);
 
        //set & get pos
@@ -39,14 +38,12 @@ class player
        bool get_turn_miss();
 
    private:
-
-       //player info
-       string Name;
-       int Pos;
-       int Score;
-       int Tot_Score;
-       char Guess [99];
-       bool Miss_Turn;
+       string Name;                         // players name
+       int Pos;                             // players position
+       int Score;                           // players round score
+       int Tot_Score;                       // players total score
+       char Guess [99];                     // players guess in char array
+       bool Miss_Turn;                      // if player misses turn
 
 };//end game
 

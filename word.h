@@ -23,7 +23,7 @@ class word
         void set_size(int);
         int get_size();
 
-        // phrase in characters
+        // phrase in character array
         char phrase[99];
 
     private:
